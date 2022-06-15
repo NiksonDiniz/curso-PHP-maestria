@@ -20,18 +20,20 @@
     <div class="conteudo">
       <nav class="modulos">
         <div class="modulo verde">
-          <h3>Módulo 01</h3>
+          <h3>Módulo 01 e 02</h3>
           <ul>
             <li><a href="exercicio.php?dir=basico&file=atividade_01">Atividade 01</a></li>
             <li><a href="exercicio.php?dir=basico&file=info">Função phpinfo()</a></li>
-            <li><a href="#">Vazio</a></li>
-            <li><a href="#">Vazio</a></li>
-            <li><a href="#">Vazio</a></li>
-            <li><a href="#">Vazio</a></li>
+            <li><a href="exercicio.php?dir=basico&file=case_sensitivity">Case sensitivity</a></li>
+            <li><a href="exercicio.php?dir=basico&file=instrucoes">Instruções de Código</a></li>
+            <li><a href="exercicio.php?dir=basico&file=espaco_branco">Espaço em Branco</a></li>
+            <li><a href="exercicio.php?dir=basico&file=comentarios">Comentários</a></li>
+            <li><a href="exercicio.php?dir=basico&file=atividade_02">Atividade 02</a></li>
+            <li><a href="exercicio.php?dir=basico&file=palavras_reservadas">Palavras Reservadas</a></li>
           </ul>
         </div>
         <div class="modulo vermelho">
-          <h3>Módulo 02</h3>
+          <h3>Módulo 03</h3>
           <ul>
           <li><a href="#">Vazio</a></li>
             <li><a href="#">Vazio</a></li>
@@ -40,7 +42,7 @@
           </ul>
         </div>
         <div class="modulo azul">
-          <h3>Módulo 03</h3>
+          <h3>Módulo 04</h3>
           <ul>
             <li><a href="#">Vazio</a></li>
             <li><a href="#">Vazio</a></li>

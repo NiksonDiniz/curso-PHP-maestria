@@ -14,7 +14,7 @@
 <body class="exercicio">
   <header class="cabecalho">
     <h1>Curso PHP</h1>
-    <h2>Visualização do exercício</h2>
+    <h2>Visualização de aulas e exercício</h2>
   </header>
 
   <nav class="navegacao">
@@ -32,7 +32,7 @@
   </main>
 
   <footer class="rodape">
-    COD3R & ALUNOS ® <?= date('Y'); ?>.
+    CURSO PHP ® <?= date('Y'); ?>.
   </footer>
 
 </body>
