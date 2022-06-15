@@ -52,10 +52,16 @@
         <div class="modulo azul">
           <h3>Módulo 04</h3>
           <ul>
-            <li><a href="#">Vazio</a></li>
-            <li><a href="#">Vazio</a></li>
-            <li><a href="#">Vazio</a></li>
-            <li><a href="#">Vazio</a></li>
+            <li><a href="exercicio.php?dir=variaveis&file=declarando_variaveis">Declarando Variáveis</a></li>
+            <li><a href="exercicio.php?dir=variaveis&file=atividade_08">Atividade 08</a></li>
+            <li><a href="exercicio.php?dir=variaveis&file=atividade_09">Atividade 09</a></li>
+            <li><a href="exercicio.php?dir=variaveis&file=variavel">Variável de variável</a></li>
+            <li><a href="exercicio.php?dir=variaveis&file=variavel_referencia">Variável por Referência</a></li>
+            <li><a href="exercicio.php?dir=variaveis&file=escopo">Escopo</a></li>
+            <li><a href="exercicio.php?dir=variaveis&file=escopo_local">Variável Local</a></li>
+            <li><a href="exercicio.php?dir=variaveis&file=escopo_global">Variável Global</a></li>
+            <li><a href="exercicio.php?dir=variaveis&file=estatica">Variável Estática</a></li>
+            <li><a href="exercicio.php?dir=variaveis&file=parametros">Parâmetros de função</a></li>
           </ul>
         </div>
       
