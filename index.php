@@ -35,10 +35,18 @@
         <div class="modulo vermelho">
           <h3>Módulo 03</h3>
           <ul>
-          <li><a href="#">Vazio</a></li>
-            <li><a href="#">Vazio</a></li>
-            <li><a href="#">Vazio</a></li>
-            <li><a href="#">Vazio</a></li>
+          <li><a href="exercicio.php?dir=tipos&file=numeros_inteiros">Números Inteiros</a></li>
+          <li><a href="exercicio.php?dir=tipos&file=atividade_03">Atividade 03</a></li>
+          <li><a href="exercicio.php?dir=tipos&file=numeros_decimais">Números Decimais(floats)</a></li>
+          <li><a href="exercicio.php?dir=tipos&file=atividade_04">Atividade 04</a></li>
+          <li><a href="exercicio.php?dir=tipos&file=strings">Tipo String</a></li>
+          <li><a href="exercicio.php?dir=tipos&file=atividade_05">Atividade 05</a></li>
+          <li><a href="exercicio.php?dir=tipos&file=booleano">Tipo Booleanos</a></li>
+          <li><a href="exercicio.php?dir=tipos&file=array">Arrays</a></li>
+          <li><a href="exercicio.php?dir=tipos&file=atividade_06">Atividade 06</a></li>
+          <li><a href="exercicio.php?dir=tipos&file=atividade_07">Atividade 07</a></li>
+          <li><a href="exercicio.php?dir=tipos&file=objetos">Objetos</a></li>
+          <li><a href="exercicio.php?dir=tipos&file=null">Tipo Null</a></li>
           </ul>
         </div>
         <div class="modulo azul">
