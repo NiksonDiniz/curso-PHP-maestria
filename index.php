@@ -35,18 +35,18 @@
         <div class="modulo vermelho">
           <h3>Módulo 03</h3>
           <ul>
-          <li><a href="exercicio.php?dir=tipos&file=numeros_inteiros">Números Inteiros</a></li>
-          <li><a href="exercicio.php?dir=tipos&file=atividade_03">Atividade 03</a></li>
-          <li><a href="exercicio.php?dir=tipos&file=numeros_decimais">Números Decimais(floats)</a></li>
-          <li><a href="exercicio.php?dir=tipos&file=atividade_04">Atividade 04</a></li>
-          <li><a href="exercicio.php?dir=tipos&file=strings">Tipo String</a></li>
-          <li><a href="exercicio.php?dir=tipos&file=atividade_05">Atividade 05</a></li>
-          <li><a href="exercicio.php?dir=tipos&file=booleano">Tipo Booleanos</a></li>
-          <li><a href="exercicio.php?dir=tipos&file=array">Arrays</a></li>
-          <li><a href="exercicio.php?dir=tipos&file=atividade_06">Atividade 06</a></li>
-          <li><a href="exercicio.php?dir=tipos&file=atividade_07">Atividade 07</a></li>
-          <li><a href="exercicio.php?dir=tipos&file=objetos">Objetos</a></li>
-          <li><a href="exercicio.php?dir=tipos&file=null">Tipo Null</a></li>
+            <li><a href="exercicio.php?dir=tipos&file=numeros_inteiros">Números Inteiros</a></li>
+            <li><a href="exercicio.php?dir=tipos&file=atividade_03">Atividade 03</a></li>
+            <li><a href="exercicio.php?dir=tipos&file=numeros_decimais">Números Decimais(floats)</a></li>
+            <li><a href="exercicio.php?dir=tipos&file=atividade_04">Atividade 04</a></li>
+            <li><a href="exercicio.php?dir=tipos&file=strings">Tipo String</a></li>
+            <li><a href="exercicio.php?dir=tipos&file=atividade_05">Atividade 05</a></li>
+            <li><a href="exercicio.php?dir=tipos&file=booleano">Tipo Booleanos</a></li>
+            <li><a href="exercicio.php?dir=tipos&file=array">Arrays</a></li>
+            <li><a href="exercicio.php?dir=tipos&file=atividade_06">Atividade 06</a></li>
+            <li><a href="exercicio.php?dir=tipos&file=atividade_07">Atividade 07</a></li>
+            <li><a href="exercicio.php?dir=tipos&file=objetos">Objetos</a></li>
+            <li><a href="exercicio.php?dir=tipos&file=null">Tipo Null</a></li>
           </ul>
         </div>
         <div class="modulo azul">
@@ -89,9 +89,14 @@
         <div class="modulo laranja">
           <h3>Módulo 06</h3>
           <ul>
-            <li><a href="#">Vazio</a></li>
-            <li><a href="#">Vazio</a></li>
-            <li><a href="#">Vazio</a></li>
+            <li><a href="exercicio.php?dir=estruturas&file=if">Est. If e Else</a></li>
+            <li><a href="exercicio.php?dir=estruturas&file=atividade_21">Atividade 21 e 22</a></li>
+            <li><a href="exercicio.php?dir=estruturas&file=atividade_23">Atividade 23 e 24</a></li>
+            <li><a href="exercicio.php?dir=estruturas&file=if_aninhado">IF aninhado</a></li>
+            <li><a href="exercicio.php?dir=estruturas&file=atividade_25">Atividade 25</a></li>
+            <li><a href="exercicio.php?dir=estruturas&file=else_if">Else if</a></li>
+            <li><a href="exercicio.php?dir=estruturas&file=atividade_26">Atividade 26</a></li>
+            <li><a href="exercicio.php?dir=estruturas&file=switch">Switch</a></li>
           </ul>
         </div>
         <div class="modulo verde-escuro">
@@ -102,13 +107,14 @@
             <li><a href="#">Vazio</a></li>
           </ul>
         </div>
-      
+
       </nav>
     </div>
   </main>
 
   <footer class="rodape">
-    CURSO PHP ® <?= date('Y'); ?>.
+    CURSO PHP ®
+    <?= date('Y'); ?>.
   </footer>
 
 </body>
