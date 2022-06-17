@@ -64,6 +64,44 @@
             <li><a href="exercicio.php?dir=variaveis&file=parametros">Parâmetros de função</a></li>
           </ul>
         </div>
+        <div class="modulo roxo">
+          <h3>Módulo 05</h3>
+          <ul>
+            <li><a href="exercicio.php?dir=expressoes&file=expressoes_codigo">Expressões de código</a></li>
+            <li><a href="exercicio.php?dir=expressoes&file=operadores">Operadores e +</a></li>
+            <li><a href="exercicio.php?dir=expressoes&file=atividade_10">Atividade 10</a></li>
+            <li><a href="exercicio.php?dir=expressoes&file=mudanca_implicita">Mudança de tipo Implícito</a></li>
+            <li><a href="exercicio.php?dir=expressoes&file=atividade_11">Atividade 11</a></li>
+            <li><a href="exercicio.php?dir=expressoes&file=atividade_12">Atividade 12</a></li>
+            <li><a href="exercicio.php?dir=expressoes&file=operador_modulo">Operador de módulo</a></li>
+            <li><a href="exercicio.php?dir=expressoes&file=atividade_13">Atividade 13</a></li>
+            <li><a href="exercicio.php?dir=expressoes&file=op_exponenciacao">exponenciação | concatenação</a></li>
+            <li><a href="exercicio.php?dir=expressoes&file=atividade_14">Atividade 14</a></li>
+            <li><a href="exercicio.php?dir=expressoes&file=mais_operadores">Mais Operadores</a></li>
+            <li><a href="exercicio.php?dir=expressoes&file=atividades">Atividade 15 e 16</a></li>
+            <li><a href="exercicio.php?dir=expressoes&file=operadores_logicos">Operadores Lógicos</a></li>
+            <li><a href="exercicio.php?dir=expressoes&file=atividade_17">Atividade 17 e 18</a></li>
+            <li><a href="exercicio.php?dir=expressoes&file=operadore_cast">Op. Cast e atividade 19</a></li>
+            <li><a href="exercicio.php?dir=expressoes&file=operador_atribuicao">Op. de atribuição | ternário</a></li>
+            <li><a href="exercicio.php?dir=expressoes&file=atividade_20">Atividade 20</a></li>
+          </ul>
+        </div>
+        <div class="modulo laranja">
+          <h3>Módulo 06</h3>
+          <ul>
+            <li><a href="#">Vazio</a></li>
+            <li><a href="#">Vazio</a></li>
+            <li><a href="#">Vazio</a></li>
+          </ul>
+        </div>
+        <div class="modulo verde-escuro">
+          <h3>Módulo 06</h3>
+          <ul>
+            <li><a href="#">Vazio</a></li>
+            <li><a href="#">Vazio</a></li>
+            <li><a href="#">Vazio</a></li>
+          </ul>
+        </div>
       
       </nav>
     </div>
