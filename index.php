@@ -100,11 +100,19 @@
           </ul>
         </div>
         <div class="modulo verde-escuro">
-          <h3>Módulo 06</h3>
+          <h3>Módulo 07</h3>
           <ul>
-            <li><a href="#">Vazio</a></li>
-            <li><a href="#">Vazio</a></li>
-            <li><a href="#">Vazio</a></li>
+            <li><a href="exercicio.php?dir=estrutura_repeticao&file=while">While</a></li>
+            <li><a href="exercicio.php?dir=estrutura_repeticao&file=atividade_27">Atividade 27</a></li>
+            <li><a href="exercicio.php?dir=estrutura_repeticao&file=break">Conhecendo o break e continue</a></li>
+            <li><a href="exercicio.php?dir=estrutura_repeticao&file=atividade_28">Atividade 28</a></li>
+            <li><a href="exercicio.php?dir=estrutura_repeticao&file=loop_aninhado">Loop aninhado</a></li>
+            <li><a href="exercicio.php?dir=estrutura_repeticao&file=atividade_29">Atividade 29</a></li>
+            <li><a href="exercicio.php?dir=estrutura_repeticao&file=do_while">Do while</a></li>
+            <li><a href="exercicio.php?dir=estrutura_repeticao&file=for">Estrutura for</a></li>
+            <li><a href="exercicio.php?dir=estrutura_repeticao&file=atividade_30">Atividade 30</a></li>
+            <li><a href="exercicio.php?dir=estrutura_repeticao&file=infinito">Loop Infinito</a></li>
+            <li><a href="exercicio.php?dir=estrutura_repeticao&file=foreach">Foreach</a></li>
           </ul>
         </div>
 
