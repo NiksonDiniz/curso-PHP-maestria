@@ -115,6 +115,30 @@
             <li><a href="exercicio.php?dir=estrutura_repeticao&file=foreach">Foreach</a></li>
           </ul>
         </div>
+        <div class="modulo verde">
+          <h3>Módulo 08</h3>
+          <ul>
+            <li><a href="exercicio.php?dir=inclusao_codigo&file=include">Include</a></li>
+            <li><a href="exercicio.php?dir=inclusao_codigo&file=require">Require</a></li>
+            <li><a href="exercicio.php?dir=inclusao_codigo&file=once">Include/Require Once</a></li>
+            <li><a href="exercicio.php?dir=inclusao_codigo&file=short">Short tags</a></li>
+            <li><a href="exercicio.php?dir=inclusao_codigo&file=exibicao">Exibição de conteúdo</a></li>
+            <li><a href="exercicio.php?dir=inclusao_codigo&file=php_html">Inserindo PHP ao HTML</a></li>
+          </ul>
+        </div>
+        <div class="modulo vermelho">
+          <h3>Módulo 09</h3>
+          <ul>
+            <li><a href="#">Vazio</a></li>
+
+          </ul>
+        </div>
+        <div class="modulo azul">
+          <h3>Módulo 10</h3>
+          <ul>
+          <li><a href="#">Vazio</a></li>
+          </ul>
+        </div>
 
       </nav>
     </div>

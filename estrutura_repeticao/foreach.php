@@ -3,7 +3,7 @@
 <ul>
   <li>A foreach também é uma estrutura de repetição;</li>
   <li>Porém ela é orientada a um array, devemos utilizar um para que a estrutura repita em todos os elementos do mesmo;</li>
-  <li>Exemplo:<br>foreach($array as $item) {<br>codigo<}></li>
+  <li>Exemplo:<br>foreach($array as $indice => $item) {<br>codigo<br>}</li>
 </ul>
 
 <?php
