@@ -129,14 +129,27 @@
         <div class="modulo vermelho">
           <h3>Módulo 09</h3>
           <ul>
-            <li><a href="#">Vazio</a></li>
-
+            <li><a href="exercicio.php?dir=funcoes&file=funcao">Funções</a></li>
+            <li><a href="exercicio.php?dir=funcoes&file=atividade_31">Atividade 31</a></li>
+            <li><a href="exercicio.php?dir=funcoes&file=atividade_32">Atividade 32</a></li>
+            <li><a href="exercicio.php?dir=funcoes&file=parametro">Parâmetro</a></li>
+            <li><a href="exercicio.php?dir=funcoes&file=atividade_33">Atividade 33</a></li>
+            <li><a href="exercicio.php?dir=funcoes&file=atividade_34">Atividade 34</a></li>
+            <li><a href="exercicio.php?dir=funcoes&file=retorno">Retorno de função</a></li>
+            <li><a href="exercicio.php?dir=funcoes&file=atividade_35">Atividade 35</a></li>
+            <li><a href="exercicio.php?dir=funcoes&file=escopo">Escopo em funções</a></li>
+            <li><a href="exercicio.php?dir=funcoes&file=atividade_36">Atividade 36</a></li>
+            <li><a href="exercicio.php?dir=funcoes&file=default">Parâmetros default</a></li>
+            <li><a href="exercicio.php?dir=funcoes&file=atividade_37">Atividade 37</a></li>
+            <li><a href="exercicio.php?dir=funcoes&file=argumentos">Descobrindo argumentos</a></li>
+            <li><a href="exercicio.php?dir=funcoes&file=atividade_38">Atividade 38</a></li>
+            <li><a href="exercicio.php?dir=funcoes&file=retorno_varios">Retorno múltiplos valores</a></li>
           </ul>
         </div>
         <div class="modulo azul">
           <h3>Módulo 10</h3>
           <ul>
-          <li><a href="#">Vazio</a></li>
+            <li><a href="#">Vazio</a></li>
           </ul>
         </div>
 
