@@ -147,7 +147,46 @@
           </ul>
         </div>
         <div class="modulo azul">
-          <h3>Módulo 10</h3>
+          <h3>Módulo 11</h3>
+          <ul>
+            <li><a href="exercicio.php?dir=strings&file=interpolacao">Interpolação de variáveis</a></li>
+            <li><a href="exercicio.php?dir=strings&file=escape">Valores de escape</a></li>
+            <li><a href="exercicio.php?dir=strings&file=atividade_39">Atividade 39</a></li>
+            <li><a href="exercicio.php?dir=strings&file=print">Função Print e printf</a></li>
+            <li><a href="exercicio.php?dir=strings&file=comprimento">Comprimento da string</a></li>
+            <li><a href="exercicio.php?dir=strings&file=percorrendo">Percorrendo uma string</a></li>
+            <li><a href="exercicio.php?dir=strings&file=atividade_40">Atividade 40</a></li>
+            <li><a href="exercicio.php?dir=strings&file=limpando">Limpando strings(espaços)</a></li>
+            <li><a href="exercicio.php?dir=strings&file=case">Alterando o Case</a></li>
+            <li><a href="exercicio.php?dir=strings&file=atividade_41">Atividade 41</a></li>
+            <li><a href="exercicio.php?dir=strings&file=remover">Removendo tags HTML</a></li>
+            <li><a href="exercicio.php?dir=strings&file=substr">Função substr</a></li>
+            <li><a href="exercicio.php?dir=strings&file=atividade_42">Atividade 42</a></li>
+            <li><a href="exercicio.php?dir=strings&file=reversa">String reversa</a></li>
+            <li><a href="exercicio.php?dir=strings&file=repeticao">Repetição de String</a></li>
+            <li><a href="exercicio.php?dir=strings&file=explode">String p array (explode)</a></li>
+            <li><a href="exercicio.php?dir=strings&file=atividade_43">Atividade 43</a></li>
+            <li><a href="exercicio.php?dir=strings&file=implode">Array para string(implode)</a></li>
+            <li><a href="exercicio.php?dir=strings&file=atividade_44">Atividade 44</a></li>
+            <li><a href="exercicio.php?dir=strings&file=strpos">Encontra - Strpos / Strrpos</a></li>
+            <li><a href="exercicio.php?dir=strings&file=strstr">Retorna resto da string</a></li>
+            <li><a href="exercicio.php?dir=strings&file=url">Decompor URL</a></li>
+          </ul>
+        </div>
+        <div class="modulo roxo">
+          <h3>Módulo 12</h3>
+          <ul>
+            <li><a href="#">Vazio</a></li>
+          </ul>
+        </div>
+        <div class="modulo laranja">
+          <h3>Módulo 12</h3>
+          <ul>
+            <li><a href="#">Vazio</a></li>
+          </ul>
+        </div>
+        <div class="modulo verde-escuro">
+          <h3>Módulo 12</h3>
           <ul>
             <li><a href="#">Vazio</a></li>
           </ul>
