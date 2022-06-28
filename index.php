@@ -176,7 +176,31 @@
         <div class="modulo roxo">
           <h3>Módulo 12</h3>
           <ul>
-            <li><a href="#">Vazio</a></li>
+            <li><a href="exercicio.php?dir=arrays&file=array">Array</a></li>
+            <li><a href="exercicio.php?dir=arrays&file=atividade_45">Atividade 45</a></li>
+            <li><a href="exercicio.php?dir=arrays&file=count">Número de elementos - count()</a></li>
+            <li><a href="exercicio.php?dir=arrays&file=matriz">Matriz</a></li>
+            <li><a href="exercicio.php?dir=arrays&file=atividade_46">Atividade 46</a></li>
+            <li><a href="exercicio.php?dir=arrays&file=list">List()</a></li>
+            <li><a href="exercicio.php?dir=arrays&file=atividade_47">Atividade 47</a></li>
+            <li><a href="exercicio.php?dir=arrays&file=slice">Cortar array - array_slice</a></li>
+            <li><a href="exercicio.php?dir=arrays&file=chunk">Dividir array - array_chunk</a></li>
+            <li><a href="exercicio.php?dir=arrays&file=chaves">Chaves e Valores</a></li>
+            <li><a href="exercicio.php?dir=arrays&file=splice">Removendo elementos</a></li>
+            <li><a href="exercicio.php?dir=arrays&file=atividade_48">Atividade 48</a></li>
+            <li><a href="exercicio.php?dir=arrays&file=extract">Extract - array associativo</a></li>
+            <li><a href="exercicio.php?dir=arrays&file=compact">Compact</a></li>
+            <li><a href="exercicio.php?dir=arrays&file=atividade_49">Atividade 49</a></li>
+            <li><a href="exercicio.php?dir=arrays&file=foreach">Foreach e arrays</a></li>
+            <li><a href="exercicio.php?dir=arrays&file=atividade_50">Atividade 50</a></li>
+            <li><a href="exercicio.php?dir=arrays&file=reduce">Reduce em arrays</a></li>
+            <li><a href="exercicio.php?dir=arrays&file=inarray">in_array | sort | arsort | ksort</a></li>
+            <li><a href="exercicio.php?dir=arrays&file=atividade_51">Atividade 51</a></li>
+            <li><a href="exercicio.php?dir=arrays&file=reverse">Invertendo arrays - reverse</a></li>
+            <li><a href="exercicio.php?dir=arrays&file=shuffle">Arrays aleatório - shuffle</a></li>
+            <li><a href="exercicio.php?dir=arrays&file=sum">Somando Arrays - array_sum</a></li>
+            <li><a href="exercicio.php?dir=arrays&file=merge">Unindo Arrays - array_merge</a></li>
+            <li><a href="exercicio.php?dir=arrays&file=diff">Diferença Arrays - array_diff</a></li>
           </ul>
         </div>
         <div class="modulo laranja">
