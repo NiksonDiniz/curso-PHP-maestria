@@ -19,7 +19,7 @@
   <main class="principal">
     <div class="conteudo">
       <nav class="modulos">
-        <div class="modulo verde">
+<!--         <div class="modulo verde">
           <h3>Módulo 01 e 02</h3>
           <ul>
             <li><a href="exercicio.php?dir=basico&file=atividade_01">Atividade 01</a></li>
@@ -230,11 +230,19 @@
             <li><a href="exercicio.php?dir=OOP&file=verificando">Verificando classes</a></li>
             <li><a href="exercicio.php?dir=OOP&file=verificando_obj">Verificando objetos</a></li>
           </ul>
-        </div>
+        </div> -->
         <div class="modulo verde-escuro">
           <h3>Módulo 13</h3>
           <ul>
             <li><a href="exercicio.php?dir=datas&file=date">Função date</a></li>
+            <li><a href="exercicio.php?dir=datas&file=strtotime">Função strtotime</a></li>
+            <li><a href="exercicio.php?dir=datas&file=mktime">Função mktime</a></li>
+            <li><a href="exercicio.php?dir=datas&file=datetime">Obejto DateTime</a></li>
+            <li><a href="exercicio.php?dir=datas&file=format">format e modify</a></li>
+            <li><a href="exercicio.php?dir=datas&file=setDate">setDate e setTime</a></li>
+            <li><a href="exercicio.php?dir=datas&file=diff">Diff</a></li>
+            <li><a href="exercicio.php?dir=datas&file=comparando">Comparando datas</a></li>
+            <li><a href="exercicio.php?dir=datas&file=fuso">Alterar fuso</a></li>
           </ul>
         </div>
 
