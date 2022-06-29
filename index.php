@@ -147,7 +147,7 @@
           </ul>
         </div>
         <div class="modulo azul">
-          <h3>Módulo 11</h3>
+          <h3>Módulo 10</h3>
           <ul>
             <li><a href="exercicio.php?dir=strings&file=interpolacao">Interpolação de variáveis</a></li>
             <li><a href="exercicio.php?dir=strings&file=escape">Valores de escape</a></li>
@@ -174,7 +174,7 @@
           </ul>
         </div>
         <div class="modulo roxo">
-          <h3>Módulo 12</h3>
+          <h3>Módulo 11</h3>
           <ul>
             <li><a href="exercicio.php?dir=arrays&file=array">Array</a></li>
             <li><a href="exercicio.php?dir=arrays&file=atividade_45">Atividade 45</a></li>
@@ -206,13 +206,35 @@
         <div class="modulo laranja">
           <h3>Módulo 12</h3>
           <ul>
-            <li><a href="#">Vazio</a></li>
+            <li><a href="exercicio.php?dir=OOP&file=objetos">O que são Objetos?</a></li>
+            <li><a href="exercicio.php?dir=OOP&file=classes">O que são classes?</a></li>
+            <li><a href="exercicio.php?dir=OOP&file=instan">Instanciando objetos</a></li>
+            <li><a href="exercicio.php?dir=OOP&file=atividade_52">Atividade 52</a></li>
+            <li><a href="exercicio.php?dir=OOP&file=metodos">Declarando métodos</a></li>
+            <li><a href="exercicio.php?dir=OOP&file=atividade_53">Atividade 53</a></li>
+            <li><a href="exercicio.php?dir=OOP&file=propriedades">Declarando propriedades</a></li>
+            <li><a href="exercicio.php?dir=OOP&file=atividade_54">Atividade 54</a></li>
+            <li><a href="exercicio.php?dir=OOP&file=this">Conhecedo o this</a></li>
+            <li><a href="exercicio.php?dir=OOP&file=atividade_55">Atividade 55</a></li>
+            <li><a href="exercicio.php?dir=OOP&file=constantes">Constantes em classes</a></li>
+            <li><a href="exercicio.php?dir=OOP&file=visibilidade">Visibilidade</a></li>
+            <li><a href="exercicio.php?dir=OOP&file=heranca">Herança</a></li>
+            <li><a href="exercicio.php?dir=OOP&file=atividade_56">Atividade 56</a></li>
+            <li><a href="exercicio.php?dir=OOP&file=ancestralidade">Ancestralidade</a></li>
+            <li><a href="exercicio.php?dir=OOP&file=interface">Interface</a></li>
+            <li><a href="exercicio.php?dir=OOP&file=traits">Traits</a></li>
+            <li><a href="exercicio.php?dir=OOP&file=abstratas">Classes abstratas</a></li>
+            <li><a href="exercicio.php?dir=OOP&file=construtor">Construtores</a></li>
+            <li><a href="exercicio.php?dir=OOP&file=atividade_57">Atividade 57</a></li>
+            <li><a href="exercicio.php?dir=OOP&file=anonimas">Classes anônimas</a></li>
+            <li><a href="exercicio.php?dir=OOP&file=verificando">Verificando classes</a></li>
+            <li><a href="exercicio.php?dir=OOP&file=verificando_obj">Verificando objetos</a></li>
           </ul>
         </div>
         <div class="modulo verde-escuro">
-          <h3>Módulo 12</h3>
+          <h3>Módulo 13</h3>
           <ul>
-            <li><a href="#">Vazio</a></li>
+            <li><a href="exercicio.php?dir=datas&file=date">Função date</a></li>
           </ul>
         </div>
 
