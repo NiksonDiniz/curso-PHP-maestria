@@ -245,6 +245,24 @@
             <li><a href="exercicio.php?dir=datas&file=fuso">Alterar fuso</a></li>
           </ul>
         </div>
+        <div class="modulo vermelho-escuro">
+          <h3>Módulo 14</h3>
+          <ul>
+            <li><a href="exercicio.php?dir=phpEweb&file=http">Introdução HTTP</a></li>
+            <li><a href="exercicio.php?dir=phpEweb&file=variaveis">Variáveis globais do PHP</a></li>
+            <li><a href="exercicio.php?dir=phpEweb&file=server">Explorando $_SERVER</a></li>
+            <li><a href="exercicio.php?dir=phpEweb&file=teoria_for">Processamento de Formulários</a></li>
+            <li><a href="exercicio.php?dir=phpEweb&file=get">Formulários com GET</a></li>
+            <li><a href="exercicio.php?dir=phpEweb&file=post">Formulários com POST</a></li>
+            <li><a href="exercicio.php?dir=phpEweb&file=auto">Autoprocessamento de pag</a></li>
+            <li><a href="exercicio.php?dir=phpEweb&file=form">Preenchimento de form</a></li>
+            <li><a href="exercicio.php?dir=phpEweb&file=upload">Upload de arquivos</a></li>
+            <li><a href="exercicio.php?dir=phpEweb&file=validacao">Validação de form</a></li>
+            <li><a href="exercicio.php?dir=phpEweb&file=mantendo">Cookies</a></li>
+            <li><a href="exercicio.php?dir=phpEweb&file=sessions">Sessions</a></li>
+            <li><a href="exercicio.php?dir=phpEweb&file=ssl">SSL</a></li>
+          </ul>
+        </div>
 
       </nav>
     </div>
