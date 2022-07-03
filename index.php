@@ -230,7 +230,7 @@
             <li><a href="exercicio.php?dir=OOP&file=verificando">Verificando classes</a></li>
             <li><a href="exercicio.php?dir=OOP&file=verificando_obj">Verificando objetos</a></li>
           </ul>
-        </div> -->
+        </div>
         <div class="modulo verde-escuro">
           <h3>Módulo 13</h3>
           <ul>
@@ -244,7 +244,7 @@
             <li><a href="exercicio.php?dir=datas&file=comparando">Comparando datas</a></li>
             <li><a href="exercicio.php?dir=datas&file=fuso">Alterar fuso</a></li>
           </ul>
-        </div>
+        </div> -->
         <div class="modulo vermelho-escuro">
           <h3>Módulo 14</h3>
           <ul>
@@ -261,6 +261,36 @@
             <li><a href="exercicio.php?dir=phpEweb&file=mantendo">Cookies</a></li>
             <li><a href="exercicio.php?dir=phpEweb&file=sessions">Sessions</a></li>
             <li><a href="exercicio.php?dir=phpEweb&file=ssl">SSL</a></li>
+          </ul>
+        </div>
+        <div class="modulo azul-escuro">
+          <h3>Módulo 15A</h3>
+          <ul>
+            <li><a href="exercicio.php?dir=php_mysql&file=intro">PHP e Banco de Dados</a></li>
+            <li><a href="exercicio.php?dir=php_mysql&file=bd">Criando BD</a></li>
+            <li><a href="exercicio.php?dir=php_mysql&file=tipos">Tipos de dados</a></li>
+            <li><a href="exercicio.php?dir=php_mysql&file=tabelas">Tabelas</a></li>
+            <li><a href="exercicio.php?dir=php_mysql&file=constraints">Constraints</a></li>
+            <li><a href="exercicio.php?dir=php_mysql&file=insert">Inserindo dados</a></li>
+            <li><a href="exercicio.php?dir=php_mysql&file=select">Selecionando dados</a></li>
+            <li><a href="exercicio.php?dir=php_mysql&file=condicionais">Condicionais</a></li>
+            <li><a href="exercicio.php?dir=php_mysql&file=orderby">Ordenando Resultados</a></li>
+            <li><a href="exercicio.php?dir=php_mysql&file=update">Atualizando dados</a></li>
+            <li><a href="exercicio.php?dir=php_mysql&file=delete">Deletando dados</a></li>
+            <li><a href="exercicio.php?dir=php_mysql&file=usuario">Criando usuário</a></li>
+          </ul>
+        </div>
+        <div class="modulo azul-escuro">
+          <h3>Módulo 15B</h3>
+          <ul>
+            <li><a href="exercicio.php?dir=mysqli_pdo&file=intro">mysqli x PDO</a></li>
+            <li><a href="exercicio.php?dir=mysqli_pdo&file=mysqli">Conectando com mysqli</a></li>
+            <li><a href="exercicio.php?dir=mysqli_pdo&file=query">Executando uma query</a></li>
+            <li><a href="exercicio.php?dir=mysqli_pdo&file=tabelas">tabelas com mysqli</a></li>
+            <li><a href="exercicio.php?dir=mysqli_pdo&file=insert">Inserindo dados com mysqli</a></li>
+            <li><a href="exercicio.php?dir=mysqli_pdo&file=select">Selecionando dados com mysqli</a></li>
+            <li><a href="exercicio.php?dir=mysqli_pdo&file=teoria">Prepared statements teoria</a></li>
+            <li><a href="exercicio.php?dir=mysqli_pdo&file=deletando">Deletando dados com prepared</a></li>
           </ul>
         </div>
 
