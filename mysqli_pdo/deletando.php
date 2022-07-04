@@ -8,16 +8,16 @@
 </ul>
 
 <?php
-  $host = "localhost";
-  $user = "root";
-  $pass = "";
-  $db = "cursophp";
+ $host = "localhost";
+ $user = "root";
+ $pass = "";
+ $db = "cursophp";
 
-  $conn = new mysqli($host, $user, $pass, $db);
+ $conn = new mysqli($host, $user, $pass, $db);
 
-  $id = 10;
+ $id = 10;
 
-  $stmt = $conn->prepare("DELETE FROM itens WHERE id = ?");
-  $stmt->bind_param("i", $id);
-  $stmt->execute();
-  $conn->close();
+ $stmt = $conn->prepare("DELETE FROM itens WHERE id = ?");
+ $stmt->bind_param("i", $id);
+ $stmt->execute();
+ $conn->close();

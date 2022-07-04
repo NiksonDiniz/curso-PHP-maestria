@@ -291,6 +291,9 @@
             <li><a href="exercicio.php?dir=mysqli_pdo&file=select">Selecionando dados com mysqli</a></li>
             <li><a href="exercicio.php?dir=mysqli_pdo&file=teoria">Prepared statements teoria</a></li>
             <li><a href="exercicio.php?dir=mysqli_pdo&file=deletando">Deletando dados com prepared</a></li>
+            <li><a href="exercicio.php?dir=mysqli_pdo&file=pdo">Habilitando a PDO</a></li>
+            <li><a href="exercicio.php?dir=mysqli_pdo&file=insert_pdo">Inserindo dados com PDO</a></li>
+            <li><a href="exercicio.php?dir=mysqli_pdo&file=update_pdo">Atualizando dados com PDO</a></li>
           </ul>
         </div>
 
