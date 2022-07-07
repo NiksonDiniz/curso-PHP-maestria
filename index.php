@@ -244,7 +244,7 @@
             <li><a href="exercicio.php?dir=datas&file=comparando">Comparando datas</a></li>
             <li><a href="exercicio.php?dir=datas&file=fuso">Alterar fuso</a></li>
           </ul>
-        </div> -->
+        </div> 
         <div class="modulo vermelho-escuro">
           <h3>Módulo 14</h3>
           <ul>
@@ -294,6 +294,13 @@
             <li><a href="exercicio.php?dir=mysqli_pdo&file=pdo">Habilitando a PDO</a></li>
             <li><a href="exercicio.php?dir=mysqli_pdo&file=insert_pdo">Inserindo dados com PDO</a></li>
             <li><a href="exercicio.php?dir=mysqli_pdo&file=update_pdo">Atualizando dados com PDO</a></li>
+          </ul>
+        </div> -->
+        <div class="modulo roxo-escuro">
+          <h3>Padrões de Desenvolvimento</h3>
+          <ul>
+            <li><a href="exercicio.php?dir=padroes&file=intro">O que é DAO</a></li>
+            <li><a href="exercicio.php?dir=padroes&file=interface_dao">Interface do DAO</a></li>
           </ul>
         </div>
 

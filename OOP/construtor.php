@@ -8,25 +8,25 @@
 
 <?php
 
-  class Car {
+  // class Car {
 
-    public $portas;
-    public $cor;
-    public $marca;
+  //   public $portas;
+  //   public $cor;
+  //   public $marca;
 
-    function __construct($portas, $cor, $marca) {
+  //   function __construct($portas, $cor, $marca) {
 
-      $this->portas = $portas;
-      $this->cor = $cor;
-      $this->marca = $marca;
+  //     $this->portas = $portas;
+  //     $this->cor = $cor;
+  //     $this->marca = $marca;
 
-    }
-  }
+  //   }
+  // }
 
-  $fusca = new Car(4, 'preto', 'Volkswagen');
+  // $fusca = new Car(4, 'preto', 'Volkswagen');
 
-  echo "O carro é da marca $fusca->marca e de cor $fusca->cor.<br>";
+  // echo "O carro é da marca $fusca->marca e de cor $fusca->cor.<br>";
 
-  $gol = new Car(4, 'azul', 'volkswagen');
+  // $gol = new Car(4, 'azul', 'volkswagen');
 
-  echo "O carro é da marca $gol->marca e de cor $gol->cor.<br>";
+  // echo "O carro é da marca $gol->marca e de cor $gol->cor.<br>";
